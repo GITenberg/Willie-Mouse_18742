@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '8219'
     url: http://www.gutenberg.org/2009/agents/8219
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18742#Willie-Mouse
 gutenberg_bookshelf: Children's Picture Books
 gutenberg_issued: '2006-07-03'
 gutenberg_type: Text
